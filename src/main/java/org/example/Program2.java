@@ -84,6 +84,7 @@ public class Program2 extends Program1 {
         program1Thread.start();
     }
 
+
     public String getName() {
         return name;
     }

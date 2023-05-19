@@ -16,6 +16,7 @@ public class Program1 {
     private static Boolean keepRunning;
     protected byte byteDataSent[];
 
+
     private static String message;
 
     public static void main(String[] args) {

@@ -67,6 +67,7 @@ public class Program3 extends Program1{
                                     case 2:
                                         y[counter] = singleByte;
                                         break;
+
                                     case 3:
                                         r[counter] = singleByte;
                                 }

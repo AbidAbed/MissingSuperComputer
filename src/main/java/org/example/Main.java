@@ -14,5 +14,6 @@ public class Main {
         Program2 lab_1 = new Program2(3005,"lab");
 
         Program2 kamal_1 = new Program2(3006,"kamal");
+
     }
 }
